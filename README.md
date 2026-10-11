@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 📊 CPI Inflation Analysis | India
 
