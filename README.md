@@ -25,14 +25,14 @@ The project explores inflation trends across Rural, Urban, and Rural + Urban sec
 ## Repository Structure
 
 India-CPI-Inflation-Analysis/
-│
+│  
 ├── README.md
-│
-├── Dataset/
-│   └── CPI_Inflation_Data.xlsx
-│
-├── Analysis/
-│   └── CPI_Analysis.xlsx
+│  
+├── Dataset/  
+│   └── CPI_Inflation_Data.xlsx  
+│ 
+├── Analysis/ 
+│   └── CPI_Analysis.xlsx 
 │
 ├── Visualizations/
 │   └── Charts and Screenshots
