@@ -22,6 +22,25 @@ The project explores inflation trends across Rural, Urban, and Rural + Urban sec
 - Investigate the relationship between Fuel & Light inflation and other expenditure categories using correlation analysis.
 - Generate meaningful insights to understand consumer price movements and inflationary patterns.
 
+## Repository Structure
+
+India-CPI-Inflation-Analysis/
+│
+├── README.md
+│
+├── Dataset/
+│   └── CPI_Inflation_Data.xlsx
+│
+├── Analysis/
+│   └── CPI_Analysis.xlsx
+│
+├── Visualizations/
+│   └── Charts and Screenshots
+│
+├── Excel File
+    └──Screenshot
+
+    
 ## Tools & Techniques Used
 
 | Tool / Technique | Application |
@@ -194,8 +213,8 @@ The project follows a structured data analytics workflow:
 
 Linkedin ID - www.linkedin.com/in/drashti-patel-038418303
 
-Gmail ID - dvpatel050198@gmail.com
----
+Email ID - dvpatel050198@gmail.com
+
 
 ⭐ If you find this project interesting, feel free to explore the repository and share your feedback!
 
