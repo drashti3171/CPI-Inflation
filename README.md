@@ -26,18 +26,31 @@ The project explores inflation trends across Rural, Urban, and Rural + Urban sec
 
 India-CPI-Inflation-Analysis/
 │
+
 ├── README.md
+
 │
+
 ├── Dataset/
+
 │   └── CPI_Inflation_Data.xlsx
+
 │
+
 ├── Analysis/
+
 │   └── CPI_Analysis.xlsx
+
 │
+
 ├── Visualizations/
+
 │   └── Charts and Screenshots
+
 │
+
 ├── Excel File
+
     └──Screenshot
 
     
