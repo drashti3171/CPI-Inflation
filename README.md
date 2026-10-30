@@ -1,10 +1,6 @@
 ## Consumer Price Index (CPI) Inflation Analysis | India
 
-### Understanding Inflation Trends, Consumer Price Movements & Economic Patterns
-
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analytics-blue?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-CPI%20Inflation-orange?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4472C4?style=for-the-badge)![Data Transformation](https://img.shields.io/badge/Data_Transformation-7030A0?style=for-the-badge)![Data Analysis](https://img.shields.io/badge/Data_Analysis-0077B5?style=for-the-badge)![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-00A36C?style=for-the-badge)![Data Visualization](https://img.shields.io/badge/Data_Visualization-E67E22?style=for-the-badge)![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8E44AD?style=for-the-badge)![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-C0392B?style=for-the-badge)![Trend Analysis](https://img.shields.io/badge/Trend_Analysis-16A085?style=for-the-badge)![Inflation Analysis](https://img.shields.io/badge/Inflation_Analysis-D35400?style=for-the-badge)![Percentage Change](https://img.shields.io/badge/Percentage_Change-2980B9?style=for-the-badge)![Economic Data Analysis](https://img.shields.io/badge/Economic_Data_Analysis-34495E?style=for-the-badge)
 
 ## Project Overview
 
@@ -47,8 +43,6 @@ The unpivoted dataset contains **10,044 classified observations**.
 <img width="462" height="284" alt="image" src="https://github.com/user-attachments/assets/4d13e76d-9d87-4eac-a056-b6765a0f464d" />
 
 
-Key findings:
-
 - Food accounts for **44.44%** of the classified observations.
 - Luxury represents 14.81%.
 - Clothing represents 11.11%.
@@ -65,8 +59,6 @@ The General CPI Index was analyzed across Rural, Urban, and Rural + Urban sector
 <img width="518" height="259" alt="image" src="https://github.com/user-attachments/assets/988ccf54-eb2f-4561-b3b0-cde7c730f0d9" />
 
 
-**Key Insights:**
-
 - CPI increased consistently across all three sectors.
 - Rural CPI remained higher than Urban CPI throughout the analyzed period.
 - The highest annual growth occurred in 2022.
@@ -80,7 +72,6 @@ The monthly price movements of four essential commodities were examined:
 
 <img width="495" height="223" alt="image" src="https://github.com/user-attachments/assets/2eaf4548-fc7d-4a66-bc83-2e5115b3733d" />
 
-**Key Findings:**
 
 - Vegetables showed the highest price volatility, reaching an index of approximately 204.37 in October 2022.
 - Milk demonstrated relatively consistent upward movement.
@@ -91,9 +82,11 @@ The Rural, Urban, and Rural + Urban comparison from 2022 to 2023 further reveale
 
 **Insight:** Vegetables were the most volatile category, with changes ranging from -12.7% to 4.2%. Fruits were the second most variable, ranging from -4.2% to 7.1%. , while pulses generally changed between -0.3% and 1.8% ,Milk remained the most stable, with changes mainly between 0.5% and 1.5%. Therefore, vegetables and fruits had greater price fluctuations, while milk and pulses were relatively stable or Lowest Inflation.
 
+## Food Category wise Inflation.  
+
 <img width="544" height="241" alt="image" src="https://github.com/user-attachments/assets/14834cdd-00e0-48c1-8a64-07c6a0d28e74" />
 
-**Insight:**  From 2022 to 2023, Spices had the highest price increase, with growth of 11–12%, followed by cereals with 9–11%. Milk also increased by 6–7%. On the other hand, vegetables showed the biggest decrease of 13%, while oils and fats decreased by 5–8%. Meat and fish remained stable with 0% change. Overall, spices and cereals became more expensive, while vegetables and oils became cheaper.
+**Insight:**  From 2022 to 2023, **Spices** had the highest price increase, with growth of **11–12%**, followed by cereals with 9–11%. Milk also increased by 6–7%. On the other hand, vegetables showed the biggest decrease of 13%, while oils and fats decreased by 5–8%. Meat and fish remained stable with 0% change. Overall, spices and cereals became more expensive, while vegetables and oils became cheaper.
 
 
 ### 4. Pre-COVID & Post-COVID Inflation Analysis
@@ -102,7 +95,6 @@ The project compares three major expenditure categories from 2013 to 2023:
 
 <img width="591" height="323" alt="image" src="https://github.com/user-attachments/assets/ddee64e8-cff3-4da0-8ff3-e2f97577fa5a" />
 
-**Key Findings:**
 
 - Food & Beverages recorded approximately **7.77%** growth in 2020.
 - Health recorded approximately 7.76% growth in 2021.
@@ -115,28 +107,38 @@ The project compares three major expenditure categories from 2013 to 2023:
 
 Correlation analysis was conducted to investigate the relationship between Fuel & Light price changes and other expenditure categories.
 
+## Fuel & Light Vs Non-alcoholic Correlation.
+
 Fuel & Light has the strongest positive correlation with Non-alcoholic Beverages among the four comparisons.
+
 <img width="470" height="240" alt="image" src="https://github.com/user-attachments/assets/a1803fbc-6e81-414e-b80e-8e8d52e4d492" />
 
+The **69%** positive correlation indicates that Fuel & Light inflation and Non alcoholic beverages inflation trend to move in the same direction. When fuel prices increase, Non alcoholic beverages may also increase because fuel is an important cost for transport services. However, this relationship is not always the same in every month.
+
+## Fuel & Light Vs Transport & Communication Correlation.
+
 Transport & Communication also exhibits a positive relationship with Fuel & Light.
+
 <img width="557" height="281" alt="image" src="https://github.com/user-attachments/assets/967eb4d9-7990-4048-a25d-5d85b6dfdf28" />
 
+The **66%** positive correlation indicates that Fuel & Light inflation and Transport & Communication inflation trend to move in the same direction. When fuel prices increase, transportation expenses may also increase because fuel is an important cost for transport services. However, this relationship is not always the same in every month.
+
+## Fuel & Light Vs Education Correlation.
+
 Education has a relatively weak positive correlation.
+
 <img width="581" height="296" alt="image" src="https://github.com/user-attachments/assets/644159b8-2fa1-4279-bc23-d1ea12b710bd" />
+
+The **23%** correlation suggests that changes in Fuel & Light inflation have only a weak relationship with changes in Education inflation. Fuel price increases do not necessarily lead to higher education expenses.
+
+## Fuel & Light Vs Food & Beverages Correlation.
 
 Food & Beverages has a weak negative correlation.
 
 <img width="431" height="239" alt="image" src="https://github.com/user-attachments/assets/42ae8c84-25a7-467a-8515-92a2d25f26fb" />
 
+The **-20%** Negative correlation indicates that Fuel & Light inflation and Food and beverages inflation trend to move in the different direction. When fuel prices Fluctuate then Food and beverages has not any effect.
 
-**Key Insights:**
-
-- Fuel & Light has the strongest positive correlation with Non-alcoholic Beverages among the four comparisons.
-- Transport & Communication also exhibits a positive relationship with Fuel & Light.
-- Education has a relatively weak positive correlation.
-- Food & Beverages has a weak negative correlation.
-
-**Insight:** Fuel price movements are more closely associated with transport and non-alcoholic beverage price movements than with education or overall food and beverage prices in this analysis.
 
 ## Overall Project Conclusions
 
