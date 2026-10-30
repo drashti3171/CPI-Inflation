@@ -125,6 +125,7 @@ Education has a relatively weak positive correlation.
 <img width="581" height="296" alt="image" src="https://github.com/user-attachments/assets/644159b8-2fa1-4279-bc23-d1ea12b710bd" />
 
 Food & Beverages has a weak negative correlation.
+
 <img width="431" height="239" alt="image" src="https://github.com/user-attachments/assets/42ae8c84-25a7-467a-8515-92a2d25f26fb" />
 
 
