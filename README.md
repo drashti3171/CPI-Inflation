@@ -191,7 +191,9 @@ The project follows a structured data analytics workflow:
 **Drashti Patel**
 
 *Aspiring Data Analyst | Excel | Economic Data Analysis*
+
 Linkedin ID - www.linkedin.com/in/drashti-patel-038418303
+
 Gmail ID - dvpatel050198@gmail.com
 ---
 
