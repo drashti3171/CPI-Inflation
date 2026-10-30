@@ -30,13 +30,13 @@ India-CPI-Inflation-Analysis/
 │  
 ├── Dataset/  
 │   └── CPI_Inflation_Data.xlsx  
+│  
+├── Analysis/  
+│    └── CPI_Analysis.xlsx  
 │ 
-├── Analysis/ 
-│   └── CPI_Analysis.xlsx 
-│
-├── Visualizations/
-│   └── Charts and Screenshots
-│
+├── Visualizations/ 
+│    └── Charts and Screenshots 
+│ 
 └── LICENSE
 
     
