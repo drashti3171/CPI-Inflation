@@ -50,7 +50,7 @@ India-CPI-Inflation-Analysis/
 │
 
 ├── Excel File
-    └──Screenshot
+│   └──Screenshot
 
     
 ## Tools & Techniques Used
